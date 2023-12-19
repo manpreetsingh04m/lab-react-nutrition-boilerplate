@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to right top, #b97ea0, #a979a2, #9774a3, #8370a3, #6d6da1, #5a75ab, #3e7db3, #0085b6, #009abc, #00aeae, #00bd8f, #63c967);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+h1{
+  text-align: center;
+  font-size: 2.5vmax;
+}
+.searchInput{
+  width: 25vw;
+  height: 5vh;
+  border: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.searchInput::placeholder{
+  color: white;
+}
+
+.foodbox-main{
+  
+}
+img{
+  width: 18vw;
+  margin-left: 10px;
+
+}
+.foodbox-main-left{
+  display: flex;
+
+  width: 70vw;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h4{
+  color: white;
+  font-size: 20px;
+
+}
+.reset{
+width: 80px;
+height: 4vh;
+}
+.inputNum{
+  width: 150px;
+}
+.foodbox-main-left-2{
+margin-right: 10px;
+}
